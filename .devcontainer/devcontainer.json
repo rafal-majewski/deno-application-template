@@ -13,7 +13,9 @@
 	"containerUser": "developer",
 	"customizations": {
 		"vscode": {
-			"extensions": []
+			"extensions": [
+				"mhutchie.git-graph"
+			]
 		}
 	},
 	"features": {},
