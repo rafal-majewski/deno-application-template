@@ -14,6 +14,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
+				"denoland.vscode-deno",
 				"mhutchie.git-graph",
 				"ms-azuretools.vscode-docker"
 			]
